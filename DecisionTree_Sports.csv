@@ -1,0 +1,15 @@
+day,weather,temp,humidity,wind,play_sports
+d1,sunny,hot,high,weak,no
+d2,sunny,hot,high,strong,no
+d3,cloudy,hot,high,weak,yes
+d4,rainy,mild,high,weak,yes
+d5,rainy,cool,normal,weak,yes
+d6,rainy,cool,normal,strong,no
+d7,cloudy,cool,normal,strong,yes
+d8,sunny,mild,high,weak,no
+d9,sunny,cool,normal,weak,yes
+d10,rainy,mild,normal,weak,yes
+d11,sunny,mild,normal,strong,yes
+d12,cloudy,mild,high,strong,yes
+d13,cloudy,hot,normal,weak,yes
+d14,rainy,mild,high,strong,no
