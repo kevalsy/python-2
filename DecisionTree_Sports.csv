@@ -1,0 +1,15 @@
+Day,Weather,Temp,Humidity,Wind,Play_Sports
+Day1,Sunny,Hot,High,Weak,No
+Day2,Sunny,Hot,High,Strong,No
+Day3,Cloudy,Hot,High,Weak,Yes
+Day4,Rainy,Mild,High,Weak,Yes
+Day5,Rainy,Cool,Normal,Weak,Yes
+Day6,Rainy,Cool,Normal,Strong,No
+Day7,Cloudy,Cool,Normal,Strong,Yes
+Day8,Sunny,Mild,High,Weak,No
+Day9,Sunny,Cool,Normal,Weak,Yes
+Day10,Rainy,Mild,Normal,Weak,Yes
+Day11,Sunny,Mild,Normal,Strong,Yes
+Day12,Cloudy,Mild,High,Strong,Yes
+Day13,Cloudy,Hot,Normal,Weak,Yes
+Day14,Rainy,Mild,High,Strong,No
